@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Luis Henrique! ✌🏻
 
-[![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-henrique-3b299a229)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](seffrin369@gmail.com)
+[![LinKedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-3b299a229)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seffrin369@gmail.com)
 
 <a href="https://ai/LuisHenri6565">
 <img height = "125cm" src = https://github-readme-stats.vercel.app/api?username=LuisHenri6565&show_icons=true&theme=cobalt>
