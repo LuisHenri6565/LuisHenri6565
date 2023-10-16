@@ -5,7 +5,7 @@
 
 <a href="https://ai/LuisHenri6565">
 <img height = "125cm" src = https://github-readme-stats.vercel.app/api?username=LuisHenri6565&show_icons=true&theme=cobalt>
-<img height = "125cm" src = https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenri6565&layout=compact&show_icons=true&theme=dark>
+<img height = "125cm" src = https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHenri6565&layout=compact>
 
 ## As tecnologias que fazem parte do meu dia a dia 
 
